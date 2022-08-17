@@ -25,12 +25,15 @@ If you've made it this far, thanks for reading! I hope you enjoy seeing my progr
 
 ### Day #001: Wednesday August 17, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Today, I worked on one of my portfolio projects, pulltarot.cards. I mostly worked on layout, which has made the site feel much more like a real app. Most notably, I added horizontal scrolling with scroll-snap to the tarot cards. I'm still having trouble with the third card, which isn't centering like the others; I may post this issue to Stack Overflow if it persists tomorrow.
 
-**Thoughts**: 
+In addition to this, I wrote out my goals above as a guideline for the next three-or-so months.
+
+**Thoughts**: Though I didn't learn much new today, I did get good practice using what I know in new ways. I think making the cards scroll horizontally looks and feels much better than having to scroll down through them. I also think the page hero looks much nicer with a background image rather than a plain purple. And I did learn something new: CSS scroll-snap! Overall happy with my progress today.
 
 **Link(s) to work**: 
-1.
+1. tarot repo: https://github.com/michaellegere/tarot-app
+2. tarot live-site: https://www.pulltarot.cards
 
 ### Day #002: Thursday August 18, 2022
 
