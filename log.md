@@ -37,12 +37,12 @@ In addition to this, I wrote out my goals above as a guideline for the next thre
 
 ### Day #002: Thursday August 18, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Today I started work on the Codecademy Reddit Clone project. I'm excited about this project for two main reasons: it gives me an excuse to work with Bootstrap/SASS, and it will force me to do more work with APIs. I didn't have a ton of time nor energy today so I most played around with using Bootstrap in React and how to layout the site.
 
-**Thoughts**: 
+**Thoughts**: Not much to say other than that trying to make the site responsive in the way I'd like has been frustrating - excited to try with fresh eyes tomorrow.
 
 **Link(s) to work**
-1. 
+1. https://github.com/michaellegere/reddit-app
 
 ### Day #003: Friday August 19, 2022
 
