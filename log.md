@@ -46,9 +46,10 @@ In addition to this, I wrote out my goals above as a guideline for the next thre
 
 ### Day #003: Friday August 19, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Started the day practicing a bit with React State and useState, but got side-tracked with my portfolio site. Fixed the cards, made them a fixed width. Also played with FileSaverJS, but ultimatley didn't use it. And uploaded a new resume!
 
 **Thoughts**: 
 
 **Link(s) to work**
-1. 
+1. michaellegere.com
+2. https://github.com/michaellegere/downloadables/blob/main/Website-Resume.pdf
