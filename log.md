@@ -51,5 +51,5 @@ In addition to this, I wrote out my goals above as a guideline for the next thre
 **Thoughts**: 
 
 **Link(s) to work**
-1. michaellegere.com
+1. https://www.michaellegere.com
 2. https://github.com/michaellegere/downloadables/blob/main/Website-Resume.pdf
